@@ -4,7 +4,7 @@
 ## How it works
 
 <ul>
-  <li>Count the number of words in a text asap</li>
+  <li>Count the number of words in a text </li>
   <li>Ignore punctuation and special characters</li>
   <li>Handle multiple languages and is Fast and lightweight</li>
 </ul>
